@@ -1,36 +1,36 @@
 void main(){
 
-//   int price=99.50;   // data type is int and we declare value in float
-//   /**. 
-//    *   correct syntax
-//    *  int price=99;
-//    */
+  int price=99.50;   // data type is int and we declare value in float
+  /**. 
+   *   correct syntax
+   *  int price=99;
+   */
 
 
-//   string city='Mumbai'; // 's' is small in String
+  string city='Mumbai'; // 's' is small in String
 
-//   /**
-//    *  correct syntax
-//    * String city='Mumbai';
-//    */
+  /**
+   *  correct syntax
+   * String city='Mumbai';
+   */
 
-//   var count =10;
-//   count='ten';  // we can not reassing the value again 
+  var count =10;
+  count='ten';  // we can not reassing the value again 
 
-//   /**
-//    *   correct syntax
-//    * var count=10;
-//    * count=20;
-//    */
+  /**
+   *   correct syntax
+   * var count=10;
+   * count=20;
+   */
 
-//   int age=24. // ; is missing here
-//    print(age);
+  int age=24. // ; is missing here
+   print(age);
 
-//  /**
-//   *   correct syntax 
-//        int age=24;
-//        print(age);
-//   */
+ /**
+  *   correct syntax 
+       int age=24;
+       print(age);
+  */
 
 
   String name='Arav';
