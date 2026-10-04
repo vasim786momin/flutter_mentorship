@@ -19,6 +19,12 @@ class Student2{
   Student2(this.name,this.marks);
 }
 
+//(d)
+class Studemt3{
+  int marks;
+  Studemt3(this.marks); // _marks is private , it is working if we use same folder structure , out outside private variable is not accesible
+}
+
 void main(){
 //(b)  
 var s=Student1('Arav');
@@ -27,6 +33,6 @@ s.name='Rohan';
 //(c)
 
 var s1=Student2('Arav', 92);
-print(s1.name);
+print(s1.name);  // typo mistake for name
 
 }
